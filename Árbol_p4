@@ -56,7 +56,7 @@ edge [fontname="helvetica"] ;
 25 -> 26 ;
 27 [label=<squared_error = 555023382.551<br/>samples = 14<br/>value = 450810.857>, fillcolor="#f1b991"] ;
 25 -> 27 ;
-28 [label=<2ndFlrSF &le; 1834.0<br/>squared_error = 6284878036.734<br/>samples = 8<br/>value = 621146.375>, fillcolor="#ea995f"] ;
+28 [label=<SalePrice &le; 685000.0<br/>squared_error = 6284878036.734<br/>samples = 8<br/>value = 621146.375>, fillcolor="#ea995f"] ;
 24 -> 28 ;
 29 [label=<squared_error = 992278859.806<br/>samples = 6<br/>value = 578195.167>, fillcolor="#eca16b"] ;
 28 -> 29 ;
